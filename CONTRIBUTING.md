@@ -9,7 +9,7 @@ Thank you for considering a contribution! Please follow these steps:
    ```
 3. **Create a branch** for your feature or bugfix:
    ```bash
-   git checkout -b feature/my-cool-feature
+   git checkout -b feature/optimize
    ```
 4. **Make changes**, ensuring code follows PSR-12 standards.
 5. **Commit** with a clear message:
