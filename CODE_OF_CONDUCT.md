@@ -13,6 +13,6 @@ Examples of unacceptable behavior by participants include:
 - Posting private information without permission
 
 ## Enforcement
-Instances of abusive behavior may be reported by contacting the project maintainers at [sales at seobythebay dot com].
+Instances of abusive behavior may be reported by contacting the project maintainers at [helpdesk at seobythebay dot com].
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
