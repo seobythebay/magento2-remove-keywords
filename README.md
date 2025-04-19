@@ -1,3 +1,6 @@
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)]
+[![Release](https://img.shields.io/github/v/release/seobythebay/SEOByTheBay_RemoveKeywords)]
+
 # RemoveKeywords Magento 2 Module
 A lightweight Magento 2 plugin to remove the `<meta name="keywords">` output for cleaner HTML and improved SEO.
 
