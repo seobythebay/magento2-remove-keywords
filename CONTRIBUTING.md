@@ -5,7 +5,7 @@ Thank you for considering a contribution! Please follow these steps:
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/your-username/SEOByTheBay_RemoveKeywords.git
+   git clone https://github.com/seobythebay/SEOByTheBay_RemoveKeywords.git
    ```
 3. **Create a branch** for your feature or bugfix:
    ```bash
