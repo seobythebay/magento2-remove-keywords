@@ -43,3 +43,13 @@
 /var/package/*
 !/var/package/*.xml
 
+app/**/generated/
+app/**/cache
+app/**/page_cache
+app/etc/env.php
+
+/.idea/
+/.vscode/
+.DS_Store
+/vendor/
+/node_modules/
