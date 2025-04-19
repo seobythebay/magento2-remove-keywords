@@ -1,5 +1,5 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)]
-[![Release](https://img.shields.io/github/v/release/seobythebay/SEOByTheBay_RemoveKeywords?cacheSeconds=600)]
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/seobythebay/magento2-remove-keywords?cacheSeconds=600)]
 
 
 # RemoveKeywords Magento 2 Module
