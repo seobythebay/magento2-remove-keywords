@@ -1,55 +1,13 @@
-#--------------------------#
-# Magento Default Files    #
-#--------------------------#
-
-/PATCH_*.sh
-
-/app/etc/local.xml
-
-/media/*
-!/media/.htaccess
-
-!/media/customer
-/media/customer/*
-!/media/customer/.htaccess
-
-!/media/dhl
-/media/dhl/*
-!/media/dhl/logo.jpg
-
-!/media/downloadable
-/media/downloadable/*
-!/media/downloadable/.htaccess
-
-!/media/xmlconnect
-/media/xmlconnect/*
-
-!/media/xmlconnect/custom
-/media/xmlconnect/custom/*
-!/media/xmlconnect/custom/ok.gif
-
-!/media/xmlconnect/original
-/media/xmlconnect/original/*
-!/media/xmlconnect/original/ok.gif
-
-!/media/xmlconnect/system
-/media/xmlconnect/system/*
-!/media/xmlconnect/system/ok.gif
-
-/var/*
-!/var/.htaccess
-
-!/var/package
-/var/package/*
-!/var/package/*.xml
-
+# Ignore generated code & caches
+app/code/SEOByTheBay/RemoveKeywords/etc/env.php
+app/code/SEOByTheBay/RemoveKeywords/Plugin/PageConfig/*.log
 app/**/generated/
-app/**/cache
-app/**/page_cache
-app/etc/env.php
+app/**/cache/
+app/**/page_cache/
 
-/.idea/
-/.vscode/
-.DS_Store
+# Ignore vendor & node modules (if you vendor‑commit anything)
 /vendor/
 /node_modules/
+
+# IDEs and OS
+/.idea/
